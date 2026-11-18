@@ -1,8 +1,8 @@
 # 📅 Training Log - [19-11-2026]
 
 ## 🎯 Focus Topic
-- Topic: [Segment Tree, Fenwick Tree]
-- Target: [Solve all Segment Tree problem in NTOJ]
+- Topic: Segment Tree, Fenwick Tree
+- Target: Solve all Segment Tree problem in NTOJ
 
 ## ✅ Problems Solved
 1. **[Problem Name / ID]** - `[Tag]`
