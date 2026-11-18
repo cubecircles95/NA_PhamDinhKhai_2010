@@ -14,7 +14,7 @@
 ## 📊 Coding Accuracy
 At the end of each day: review and summarize all submissions:
 - What was the goal of each submission?
-  -> Getting AC (Accepted) on the problem, or passing all test cases for a specific subtask?
+   - Getting AC (Accepted) on the problem, or passing all test cases for a specific subtask?
 - Did the submission achieve that goal?
    - WA/RE on even a single test case -> Unsatisfactory (or Goal not met)
    - TLE, but with the right time complexity -> Satisfactory (or Goal met)
