@@ -35,7 +35,7 @@
 
 ---
 
-## 🎯 Action Plan for Next Week (Week [XX+1])
+## 🎯 Action Plan for Next Week (Week [001 + 1])
 - [ ] **Upsolve:** Hoàn thành việc code lại bài [Tên bài] từ contest tuần này.
 - [ ] **Topic Study:** Đọc lý thuyết và làm 5 bài cơ bản về [Tên chuyên đề mới].
 - [ ] **Template Update:** Bổ sung hàm/cấu trúc [Tên thuật toán] vào thư mục `algorithms/`.
