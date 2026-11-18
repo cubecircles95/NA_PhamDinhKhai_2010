@@ -1,5 +1,4 @@
-# NA_PhamDinhKhai_2010
-# 🏆 Road to VOI 2027 - 2028 | Competitive Programming Archive
+# 🏆 Road to VOI 2027 - 2028 | Competitive Programming Archive By Cubecircles (Pham Dinh Khai)
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B20-blue.svg?style=flat-square&logo=c%2B%2B)
 ![Focus](https://img.shields.io/badge/Target-VOI%202027--2028-red.svg?style=flat-square)
