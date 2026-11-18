@@ -19,6 +19,7 @@ At the end of each day: review and summarize all submissions:
    - WA/RE on even a single test case -> Unsatisfactory (or Goal not met)
    - TLE, but with the right time complexity -> Satisfactory (or Goal met)
    - TLE with the wrong time complexity -> Unsatisfactory (or Goal not met)
+
 Code accuracy rate = Number of satisfactory submissions (Number of submissions that met the goal) / Total submissions
    - < 60%: Needs improvement
    - 60% - 90%: Acceptable
