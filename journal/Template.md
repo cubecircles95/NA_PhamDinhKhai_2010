@@ -20,6 +20,11 @@ At the end of each day: review and summarize all submissions:
    - TLE, but with the right time complexity -> Satisfactory (or Goal met)
    - TLE with the wrong time complexity -> Unsatisfactory (or Goal not met)
 
+Code accuracy rate = Number of satisfactory submissions (Number of submissions that met the goal) / Total submissions
+   - **< 60%**: Needs improvement
+   - **60% - 90%**: Acceptable
+   - **> 90%**: Ideal
+
 ## 🐛 Mistakes & Lessons Learned
 - [ ] *Bug 1:* e.g., Integer overflow when multiplying `a * b` before taking modulo.
 - [ ] *Bug 2:* e.g., Forgot to clear adjacency list `adj[i].clear()` for multiple test cases.
