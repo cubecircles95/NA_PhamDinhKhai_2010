@@ -1,4 +1,4 @@
-# 📅 Training Log - [YYYY-MM-DD]
+# 📅 Training Log - [DD-MM-YYYY]
 
 ## 🎯 Focus Topic
 - Topic: [e.g., Dynamic Programming / Graph Theory]
