@@ -1,6 +1,6 @@
 # 🏆 Road to VOI 2027 - 2028 | My Competitive Programming Archive
 
-![Language](https://img.shields.io/badge/Language-C%2B%2B20-blue.svg?style=flat-square&logo=c%2B%2B)
+![Language](https://img.shields.io/badge/Language-C%2B%2B17-blue.svg?style=flat-square&logo=c%2B%2B)
 ![Focus](https://img.shields.io/badge/Target-VOI%202027--2028-red.svg?style=flat-square)
 ![Maintainer](https://img.shields.io/badge/Author-Cubecircles-brightgreen.svg?style=flat-square)
 
