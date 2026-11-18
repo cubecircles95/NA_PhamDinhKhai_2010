@@ -1,4 +1,4 @@
-# 🏆 Road to VOI 2027 - 2028 | Competitive Programming Archive By Cubecircles (Pham Dinh Khai)
+# 🏆 Road to VOI 2027 - 2028 | My Competitive Programming Archive
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B20-blue.svg?style=flat-square&logo=c%2B%2B)
 ![Focus](https://img.shields.io/badge/Target-VOI%202027--2028-red.svg?style=flat-square)
@@ -6,7 +6,7 @@
 
 > *"Consistency is the key to mastering algorithms. Every WA is a lesson, every AC is a step forward."*
 
-This repository serves as a structured archive of source code, algorithmic templates, study materials, and training logs maintained by **Cubecircles** on the journey toward the **Vietnam Olympiad in Informatics (VOI) 2027 - 2028**.
+This repository serves as a structured archive of source code, algorithmic templates, study materials, and training logs maintained by **Cubecircles (Pham Dinh Khai)** on the journey toward the **Vietnam Olympiad in Informatics (VOI) 2027 - 2028**.
 
 ---
 
