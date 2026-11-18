@@ -6,33 +6,33 @@
 
 > *"Consistency is the key to mastering algorithms. Every WA is a lesson, every AC is a step forward."*
 
-Kho lưu trữ này là nơi tổng hợp mã nguồn, tài liệu thuật toán, công cụ hỗ trợ và nhật ký quá trình ôn luyện của **Cubecircles** hướng tới **Kỳ thi Học sinh giỏi Quốc gia môn Tin học (VOI) 2027 - 2028**.
+This repository serves as a structured archive of source code, algorithmic templates, study materials, and training logs maintained by **Cubecircles** on the journey toward the **Vietnam Olympiad in Informatics (VOI) 2027 - 2028**.
 
 ---
 
-## 📂 Cấu trúc Repository
+## 📂 Repository Structure
 
 ```text
 .
-├── 📁 algorithms/          # Thư viện thuật toán & cấu trúc dữ liệu chuẩn hóa
+├── 📁 algorithms/          # Standardized algorithm & data structure library
 │   ├── data-structures/    # Segment Tree, Fenwick Tree, DSU, Treap, Sparse Table...
-│   ├── dynamic-programming/# DP Bitmask, Digit DP, Tree DP, DP Optimizations (CHT, D&C)...
+│   ├── dynamic-programming/# Bitmask DP, Digit DP, Tree DP, DP Optimizations (CHT, D&C)...
 │   ├── graph-theory/       # Shortest Paths, MST, Flows, Tarjan, HLD, Centroid...
 │   ├── mathematics/        # Number Theory, Combinatorics, Matrix Exponentiation...
 │   └── strings/            # Hashing, KMP, Z-function, Trie, Suffix Array...
 │
-├── 📁 templates/           # Môi trường thi đấu & công cụ tự động hóa
-│   ├── main.cpp            # Template C++ Fast I/O & Debug macros
-│   └── stress-test/        # Script sinh test ngẫu nhiên & đối chiếu nghiệm trâu (Brute-force)
+├── 📁 templates/           # Competitive environment & automation scripts
+│   ├── main.cpp            # C++ Fast I/O & Debug macros template
+│   └── stress-test/        # Random test generators & brute-force checkers
 │
-├── 📁 problems/            # Lời giải chi tiết các bài toán chọn lọc (kèm phân tích)
+├── 📁 problems/            # Curated solutions with editorial notes & complexity analysis
 │   ├── codeforces/
 │   ├── vnoi-voi/
 │   ├── oj-uz/
 │   └── vjudge/
 │
-├── 📁 docs/                # Tài liệu lý thuyết, sổ tay công thức & ghi chú chuyên đề
+├── 📁 docs/                # Theory notes, cheat sheets, and topic summaries
 │
-└── 📁 journal/             # Nhật ký học tập, mục tiêu & đánh giá sau mỗi Contest
+└── 📁 journal/             # Daily study logs, milestones, and post-contest reflections
     ├── 2026/
     └── 2027/
