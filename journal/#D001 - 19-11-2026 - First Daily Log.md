@@ -12,7 +12,7 @@
    - **Key Idea:** ...
 3. **[Sereja and Brackets / 380C]** - `[Segment Tree]`
    - **Key Idea:** Briefly explain the main trick or observation.
-   - **Complexity:** Time $O(m log n)$, Space $O(4 \dots n)$.
+   - **Complexity:** Time $O(m log n)$, Space $O(4 \cdot n)$.
   
 ## 📊 Coding Accuracy
 Code accuracy rate = Number of satisfactory submissions (Number of submissions that met the goal) / Total submissions
