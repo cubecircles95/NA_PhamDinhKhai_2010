@@ -2,28 +2,25 @@
 
 ## 🎯 Focus Topic
 - Topic: Segment Tree, Fenwick Tree
-- Target: Solve all Segment Tree problem in NTOJ
+- Target: Solve Segment Tree problem in codeforces, Yugihacker DTQG26Summer
 
 ## ✅ Problems Solved
-1. **[Problem Name / ID]** - `[Tag]`
+1. **[Tìm min cơ bản 2]** - `[Segment Tree Lazy Update]`
    - **Key Idea:** Briefly explain the main trick or observation.
    - **Complexity:** Time $O(\dots)$, Space $O(\dots)$.
-2. **[Problem Name / ID]** - `[Tag]`
+2. **[Đoạn con có tổng lớn nhất]** - `[Segment Tree]`
    - **Key Idea:** ...
+3. **[Sereja and Brackets / 380C]** - `[Segment Tree]`
+   - **Key Idea:** Briefly explain the main trick or observation.
+   - **Complexity:** Time $O(m log n)$, Space $O(4 \dots n)$.
   
 ## 📊 Coding Accuracy
-At the end of each day: review and summarize all submissions:
-- What was the goal of each submission?
-   - Getting AC (Accepted) on the problem, or passing all test cases for a specific subtask?
-- Did the submission achieve that goal?
-   - WA/RE on even a single test case -> Unsatisfactory (or Goal not met)
-   - TLE, but with the right time complexity -> Satisfactory (or Goal met)
-   - TLE with the wrong time complexity -> Unsatisfactory (or Goal not met)
-
 Code accuracy rate = Number of satisfactory submissions (Number of submissions that met the goal) / Total submissions
    - **< 60%**: Needs improvement
    - **60% - 90%**: Acceptable
    - **> 90%**: Ideal
+
+Code accuracy rate = 3 / 4 = 0.75 = 75% -> Acceptable.
 
 ## 🐛 Mistakes & Lessons Learned
 - [ ] *Bug 1:* e.g., Integer overflow when multiplying `a * b` before taking modulo.
