@@ -37,4 +37,4 @@ This repository serves as a structured archive of source code, algorithmic templ
     ├── 2026/
     └── 2027/
 ````
-![https://raw.githubusercontent.com/cubecircles95/NA_PhamDinhKhai_2010/refs/heads/main/200.gif](https://raw.githubusercontent.com/cubecircles95/NA_PhamDinhKhai_2010/refs/heads/main/200.gif)
+![https://raw.githubusercontent.com/cubecircles95/NA_PhamDinhKhai_2010/refs/heads/main/_thump.gif](https://raw.githubusercontent.com/cubecircles95/NA_PhamDinhKhai_2010/refs/heads/main/_thump.gif)
